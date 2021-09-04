@@ -1,0 +1,5 @@
+﻿.navbar-custom .nav-item.resources .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+    background-color: #FFB81C; /* add background-color to active links */
+}

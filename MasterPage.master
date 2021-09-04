@@ -1,0 +1,124 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" runat="server" />
+    <link rel="stylesheet" href="~/css/site.css" runat="server" />
+</head>
+<body>
+    <a href="~/Default.aspx" runat="server">
+        <img id="topimg" src="~/Images/pittpavements-logo.jpg" runat="server" />
+    </a>
+    <header>
+
+        <nav class="navbar navbar-expand-lg navbar-dark navbar-custom" style="background-color: #003594;">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navResponsive" aria-controls="navResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+            <div class="collapse navbar-collapse" id="navResponsive">
+                <ul class="navbar-nav w-100 nav-justified">
+                    <li class="nav-item people">
+                        <a class="nav-link text-white" href="~/People/People.aspx" runat="server">People</a>
+                    </li>
+                    <li class="nav-item dropdown resources">
+                        <a class="nav-link text-white dropdown-toggle" id="Resources-list" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+
+                        <div class="dropdown-menu" aria-labelledby="Resources-list">
+                            <a class="dropdown-item" href="~/Resources/Field.aspx" runat="server">Field</a>
+                            <a class="dropdown-item" href="~/Resources/Lab.aspx" runat="server">Lab</a>
+                            <a class="dropdown-item" href="~/Resources/Software.aspx" runat="server">Software</a>
+                        </div>
+                    </li>
+                    <li class="nav-item products">
+                        <a class="nav-link text-white" href="~/Products/Products.aspx" runat="server">Pitt Products</a>
+                    </li>
+                    <li class="nav-item dropdown research">
+                        <a class="nav-link text-white dropdown-toggle" href="#" id="research-list" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
+
+                        <div class="dropdown-menu" aria-labelledby="research-list">
+                            <a class="dropdown-item" href="~/Research/Projects.aspx" runat="server">Projects</a>
+                            <a class="dropdown-item" href="~/Research/Publications.aspx" runat="server">Publications</a>
+                        </div>
+
+                    </li>
+
+                    <li class="nav-item wiki">
+                        <a class="nav-link text-white" href="~/Wiki/Wiki.aspx" runat="server">Pavements Wiki</a>
+                    </li>
+
+                    <li class="nav-item program">
+                        <a class="nav-link text-white" href="~/Program/Program.aspx" runat="server">Program</a>
+                    </li>
+
+                    <li class="nav-item partners">
+
+                        <a class="nav-link text-white" href="~/Partners/Partners.aspx" runat="server">Partners</a>
+                    </li>
+
+                    <li class="nav-item">
+
+                        <a class="btn btn-success" href="#" role="button">Contact Us</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+
+        </nav>
+
+    </header>
+    <div>
+        <asp:ContentPlaceHolder ID="maincontent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <footer>
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <img src="~/Images/side-pittpavements-logo.png" class="img-fluid" id="bottomimg" alt="PittPave footer"  runat="server"/>
+                    <div class="col-md-3 ool-sm-6 col-xs-12 segment-one md-mb-30 sm-mb-30">
+                        <h2 class="layout-h2">Pavement Engineering at Pitt</h2>
+                        <p class="layout-p">Department of Civil and Environmental Engineering<br/>
+                            Benedum Hall, 3700 O'Hara St<br/>
+                            Pittsburgh, PA 15261</p>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 segment-two md-mb-30 sm-mb-30">
+                        <h2 class="layout-h2">Useful Links</h2>
+                        <ul>
+                            <li><a href="https://www.engineering.pitt.edu/Departments/Civil-Environmental/" target="_blank">Pitt CEE</a></li>
+                            <li><a href="https://www.engineering.pitt.edu/" target="_blank">Pitt SSOE</a></li>
+                            <li><a href="http://pittasce.weebly.com/" target="_blank">Pitt ASCE</a></li>
+                            <li><a href="https://www.concretepavements.org/" target="_blank">ISCP</a></li>
+                        </ul>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 segment-12 md-mb-30 sm-mb-30">
+                        <h2 class="layout-h2">Follow us</h2>
+                        <p class="layout-p">Follow our work on social media</p>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/lib/jquery/dist/jquery.min.js")%>"></script>
+    <script src="<%= Page.ResolveClientUrl("~/lib/bootstrap/dist/js/bootstrap.bundle.min.js")%>"></script>
+    <script src="<%= Page.ResolveClientUrl("~/js/site.js")%>"></script>
+</body>
+</html>
