@@ -17,7 +17,10 @@
 
     </p>
     <div class="text-center">
+        <figure>
         <img src="../Images/Wiki/Graph.png" class="img-fluid" alt="Pavement Engineering" />
+            <figcaption>Image credits: Carl Monismith</figcaption>
+        </figure>
     </div>
 
     <br />

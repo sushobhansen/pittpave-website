@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Pavements at Pitt" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+﻿<%@ Page Title="Pavement Engineering at Pitt" Language="C#" MasterPageFile="MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 </asp:Content>
@@ -130,7 +130,7 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>The Pitt pavements team visited the under-construction I-576, a new freeway segment being constructed by the Pennsylvania Turnpike Commission to connect Pittsburgh International Airport to the city.</p>
+                            <p>The Pitt pavements team visited the under-construction SR-576, a new freeway segment being constructed by the Pennsylvania Turnpike Commission to connect Pittsburgh International Airport to the city.</p>
                         </div>
 
                     </div>
