@@ -6,7 +6,7 @@
     <div class="card mb-3" style="width: 70rem; height: 12rem;">
         <div class="row no-gutters">
             <div class="col-sm-2">
-                <img src="~/Images/side-pittpavements-logo.png" class="card-img" alt="Zhe Wan" style="height: 12rem; width: auto" runat="server" />
+                <img src="~/Images/People/Graduate/Zhe Wan.jpg" class="card-img" alt="Zhe Wan" style="height: 12rem; width: auto" runat="server" />
             </div>
             <div class="col-md-8">
 

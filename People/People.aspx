@@ -292,7 +292,7 @@
                     <div class="card mb-3" style="height: 12rem; width: 20rem;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <a href="ZheWan.aspx"><img src="~/Images/side-pittpavements-logo.png" class="card-img" alt="Zhe Wan" runat="server" style="height: 100px; width:100px;"/></a>
+                                <a href="ZheWan.aspx"><img src="~/Images/People/Graduate/Zhe Wan.jpg" class="card-img" alt="Zhe Wan" runat="server" style="height: 100px; width:100px;"/></a>
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
