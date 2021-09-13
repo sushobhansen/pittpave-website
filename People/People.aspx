@@ -292,7 +292,22 @@
                     <div class="card mb-3" style="height: 12rem; width: 20rem;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <a href="ZheSun.aspx"><img src="~/Images/People/Graduate/Zhe Sun.jpg" class="card-img" alt="..." runat="server"/></a>
+                                <a href="ZheWan.aspx"><img src="~/Images/side-pittpavements-logo.png" class="card-img" alt="Zhe Wan" runat="server" style="height: 100px; width:100px;"/></a>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Zhe Wan</h5>
+                                    <p class="card-text">Graduate Student Researcher </p>
+                                    <p class="card-text">zhw73@pitt.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <a href="ZheSun.aspx"><img src="~/Images/People/Graduate/Zhe Sun.jpg" class="card-img" alt="..." runat="server" style="height: 100px; width:100px;"/></a>
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -304,40 +319,57 @@
                         </div>
                     </div>
 
-                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
-                        <div class="row no-gutters">
-                            <div class="col-md-4">
-                                <a href="Buettner.aspx"><img src="~/Images/People/Graduate/Nathanial Buettner.jpg" class="card-img" alt="..." runat="server"/></a>
-                            </div>
-                            <div class="col-md-8">
-
-                                <div class="card-body">
-                                    <h5 class="card-title">Nathanial Buettner </h5>
-                                    <p class="card-text">Graduate Student Researcher </p>
-                                    <p class="card-text">nrb46@pitt.edu</p>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </div>
-
 
                 </div>
 
                 <h2 id="sec-undergrad">Undergraduate Students</h2>
+                <div class="card-deck">
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <a href="ZachBrody.aspx"><img src="~/Images/side-pittpavements-logo.png" class="card-img" alt="..." runat="server" style="height: 100px; width:100px;"/></a>
+                                </div>
+                                <div class="col-md-8">
+
+                                    <div class="card-body">
+                                        <h5 class="card-title">Zachary Brody</h5>
+                                        <p class="card-text">Undergraduate Student Researcher </p>
+                                        <p class="card-text">zab45@pitt.edu</p>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                    </div>
+                </div>
 
                 <h2 id="sec-alumni">Alumni</h2>
+                <div class="card-deck">
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <a href="Buettner.aspx"><img src="~/Images/People/Graduate/Nathanial Buettner.jpg" class="card-img" alt="..." runat="server" style="height: 100px; width:100px;"/></a>
+                                </div>
+                                <div class="col-md-8">
+
+                                    <div class="card-body">
+                                        <h5 class="card-title">Nathanial Buettner </h5>
+                                        <p class="card-text">Graduate Student Researcher </p>
+                                        <p class="card-text">nrb46@pitt.edu</p>
+                                    </div>
 
 
-
-            </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
 
 
 
 
         </div>
 
+        </div>
         </div>
 
     </div>
