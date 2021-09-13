@@ -132,8 +132,6 @@
 
     <p>In addition to binder tests, aggregates are graded to optimize interlock, while the overall AC mixture is tested for strength and durability. </p>
 
-    <p class="font-weight-bold">[Is there any AC research at Pitt and should I talk about fracture tests?]</p>
-
     <h3 id="Rigid">Rigid Pavements</h3>
 
     <p>Rigid Pavements made of PCC (and commonly called concrete pavements) is the other type of pavements, which is used less often than flexible pavements but is typically preferred for roads that experience heavy traffic. PCC is typically much stiffer than AC and is thus able to withstand much heavier loads. In addition, well-constructed rigid pavements typically need little maintenance over their service life, whereas even well-constructed flexible pavements need regular maintenance to maintain ride quality. Thus, while rigid pavements can be expensive to construct initially, they can be quite competitive with flexible pavements over their service life, and several highway financing models take this into account when appropriating funds to various projects. </p>
@@ -144,24 +142,14 @@
 
     <p>After being laid, concrete pavements are cured for anywhere from 28 days to 90 days, during which time they gain strength. The strength of concrete over time is determined in the laboratory based on two values: compressive strength and flexure strength. The compressive strength of concrete is usually determined by testing cylinders of length 12 in and diameter 6 in (AASHTO T22/ASTM C39) under a Universal Testing Machine (UTM), which progressively applies a load while measuring the displacement. The maximum load applied corresponds to the compressive strength, while the slope of the load-displacement curve determines the elastic modulus. Flexural strength, on the other hand, is determined by loading a concrete beam of size 18 in x 6 in x 6 in in either a three-point (ASTM C78) or four-point (ASTM C651) configuration. Empirical relationships between compressive and flexural strengths are widely used to avoid having to perform both tests. </p>
 
-    <p class="font-weight-bold">[Links to testing apparatus at Pitt]</p>
-
-    <p class="font-weight-bold">[Links to projects that used these tests?]</p>
-
-    <p class="font-weight-bold">[Does Pitt do fracture tests?]</p>
-
     <h3 id="Composite">Composite Pavements</h3>
 
     <p>Another category of pavements consists of layers both flexible and rigid pavements, called composite pavements. The behavior of such pavements depends on the properties of both layers as well as the extent to which they are bonded to each other. Based on the configuration of the two layers, these can be classified as either asphalt over concrete or concrete over asphalt, while based on bonding condition, they can be classified as bonded or unbonded. </p>
 
     <p>Pitt is a leader in the analysis and design of composite pavements in the configuration of concrete over asphalt. The Unbonded Overlay (UBOL) and Bonded Concreter Over Asphalt (BCOA) design methods developed at Pitt enable engineers to design long-lasting composite pavements that are both safe and comfortable to users. </p>
 
-    <p class="font-weight-bold">[Links to UBOL and BCOA-ME]</p>
-
     <h3 id="Fibers">Fibers</h3>
     <p>Pavements typically fail when large crack form on them, which reduces ride quality and eventually makes the road unsafe and uncomfortable for use. The inclusion of fibers helps to limit the width of cracks by holding the cracks together tightly to minimize user discomfort. A wide variety of fibers, made of steel and polymers and having a variety of shapes and sizes, have been used in both flexible and rigid pavements and have proven to be quite effective. Fibers are typically added in small doses – ranging from 0.5-2.0% by volume – during mixing, with care taken to ensure that they do not form clumps in the mixer. The key performance indicator is the extent to which the fiber bonds with the binding agent (cement or asphalt), which is measured using a bond strength test (ASTM D7913). </p>
-
-    <p class="font-weight-bold">[Does Pitt do any research on fibers?]</p>
 
     <h3 id="Steel">Steel</h3>
 
@@ -169,17 +157,9 @@
 
     <p>Dowel bars are provided in rigid pavements that have joints (called Jointed Plain Concrete Pavements or JPCP). They fulfill two roles: to transfer load from one slab to the other in order to limit the load at the edge of the slab, and to enable slab to expand or contract without generating additional stress. Dowel bar misalignment, which happens when the dowel bars are placed at a distance and angle that varies significantly from the design, is a major issue in pavement construction and can cause premature cracking and even failure. </p>
 
-    <p class="font-weight-bold">[What dowel-related research is happening at Pitt?]</p>
-
-    <p class="font-weight-bold">[Does Pitt do anything on CRCP?]</p>
-
     <h3 id="Aggregates">Aggregates</h3>
 
     <p>Whether flexible or rigid, aggregates are used in large quantities to construct any pavement. Aggregates are characterized by their size, both individually and within a mixture. Aggregate size distribution is determined based on a sieve analysis test (ASTM C136), with aggregates whose size is less than 75 microns called fine aggregates (or simply ‘fines’) and whose size is greater than 75 microns called coarse aggregates. Fine aggregates used in concrete is usually river-bed sand, although this is increasingly becoming a scarce commodity around the world, which has spurred a demand for manufactured sand that can be produced in a factory. Coarse aggregates are obtained from quarries and have wide variation in their origin. In the US, limestone, granite, and sandstone are often used as coarse aggregates depending on local availability. </p>
-
-    <p class="font-weight-bold">[Pictures of sieve analysis?]</p>
-
-    <p class="font-weight-bold">[Any aggregate testing at Pitt?]</p>
 
     <h3 id="Design">Pavement Design</h3>
 
@@ -234,9 +214,7 @@
     </p>
 
     <p>
-        From the deflections, it is possible to back-calculated the modulus of the different layers, which can then be used to evaluate the stresses experienced by it using ME design principles. However, this back calculation is a complex procedure that requires long analysis time and is prone to poor results. Pitt FWD is a back-calculation tool that overcomes some of these drawbacks and can be used to quickly and accurately assess pavement condition. The tool is available as a convenient online tool, and can be found here:
+        From the deflections, it is possible to back-calculated the modulus of the different layers, which can then be used to evaluate the stresses experienced by it using ME design principles. However, this back calculation is a complex procedure that requires long analysis time and is prone to poor results. Pitt FWD is a back-calculation tool that overcomes some of these drawbacks and can be used to quickly and accurately assess pavement condition. The tool is available as a convenient online tool, and can be found here:    <a href="https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/FWD-Analysis-Tool/FWD-Analysis-Tool-Page/ ">https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/FWD-Analysis-Tool/FWD-Analysis-Tool-Page/ </a>
     </p>
-
-    <a href="https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/FWD-Analysis-Tool/FWD-Analysis-Tool-Page/ ">https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/FWD-Analysis-Tool/FWD-Analysis-Tool-Page/ </a>
 
 </asp:Content>
