@@ -348,14 +348,29 @@
                     <div class="card mb-3" style="height: 12rem; width: 20rem;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
+                                    <a href="JohnDeSantis.aspx"><img src="~/Images/People/Alumni/JohnDeSantis.jpg" class="card-img" alt="..." runat="server" style="height: 100px; width:100px;"/></a>
+                                </div>
+                                <div class="col-md-8">
+
+                                    <div class="card-body">
+                                        <h5 class="card-title">Dr. John W. DeSantis</h5>
+                                        <p class="card-text">Alumnus</p>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
                                     <a href="Buettner.aspx"><img src="~/Images/People/Graduate/Nathanial Buettner.jpg" class="card-img" alt="..." runat="server" style="height: 100px; width:100px;"/></a>
                                 </div>
                                 <div class="col-md-8">
 
                                     <div class="card-body">
                                         <h5 class="card-title">Nathanial Buettner </h5>
-                                        <p class="card-text">Graduate Student Researcher </p>
-                                        <p class="card-text">nrb46@pitt.edu</p>
+                                        <p class="card-text">Alumnus</p>
                                     </div>
 
 

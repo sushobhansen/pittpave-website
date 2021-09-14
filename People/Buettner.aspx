@@ -6,16 +6,13 @@
     <div class="card mb-3" style="width: 70rem; height: 12rem;">
         <div class="row no-gutters">
             <div class="col-sm-2">
-                <img src="~/Images/People/Graduate/Nathanial Buettner.jpg" class="card-img" alt="..." style="height: 12rem; width: 12rem" runat="server" />
+                <img src="~/Images/People/Alumni/Nathanial Buettner.jpg" class="card-img" alt="..." style="height: 12rem; width: 12rem" runat="server" />
             </div>
             <div class="col-md-8">
 
                 <div class="card-body">
                     <h5 class="card-title">Nathanial Buettner </h5>
-                    <p class="card-text">Title: Graduate Student Researcher</p>
-                    <p class="card-text">Email: nrb46@pitt.edu</p>
-
-
+                    <p class="card-text">Former position: Graduate Student Researcher</p>
                 </div>
 
 
