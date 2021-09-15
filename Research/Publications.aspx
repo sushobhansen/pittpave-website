@@ -6,7 +6,19 @@
     <h2 class="publication">2021</h2>
     <ul>
         <li>
-            <p class="publication">Buettner, N., Q. Zhang, J. M. Vandenbossche, and J. Oswalt. “Investigating the Effects of Superloads on Fatigue Performance in Jointed Plain Concrete Pavements,” 12th International Conference on Concrete Pavements, Minneapolis, Minnesota, Aug 29 – Sept 2, 2021. (Accepted)</p>
+            <p class="publication">Buettner, N., Q. Zhang, J. M. Vandenbossche, and J. Oswalt. Investigating the Effects of Superloads on Fatigue Performance in Jointed Plain Concrete Pavements. 12th International Conference on Concrete Pavements, 2021. (In press)</p>
+        </li>
+        <li>
+            <p class="publication">DeSantis, J.W. and Vandenbossche, J.M., (2021). Redevelopment of Artificial Neural Networks for Predicting the Response of Bonded Concrete Overlays of Asphalt for Use in a Faulting Prediction Model. <span>Transportation Research Record: Journal of the Transportation Research Board</span>, 2672(40), pp. 360-370. doi: 10.1177/03611981211001075.</p>
+        </li>
+        <li>
+            <p class="publication">DeSantis, J.W., Buettner, N., Vandenbossche, J.M., and Zhang, Q., (2021). Improved Artificial Neural Networks for Predicting the Response of Unbonded Concrete Overlays in a Faulting Prediction Model. <span>International Journal of Pavement Engineering</span>. doi: 10.1080/10298436.2021.1931195</p>
+        </li>
+        <li>
+            <p class="publication">Sen, S., & Khazanovich, L. (2021). Limited application of reflective surfaces can mitigate urban heat pollution. <span>Nature Communications</span>, 12(1), pp. 1-8. doi: 10.1038/s41467-021-23634-7</p>
+        </li>
+        <li>
+            <p class="publication">Sen, S., & Khazanovich, L. (2021). A self-contained element for modeling crack propagation in beams. <span>Engineering Fracture Mechanics</span>, 242, p. 107460. doi: 10.1016/j.engfracmech.2020.107460</p>
         </li>
     </ul>
 
@@ -15,7 +27,10 @@
     <h2 class="publication">2020</h2>
     <ul>
         <li>
-            <p class="publication">Khazanovich, L., & Levenberg, E. (2020). Analytical solution for a viscoelastic plate on a Pasternak foundation. <span class="font-italic">ROAD MATERIALS AND PAVEMENT DESIGN</span>, 21(3), 800-820.Informa UK Limited. doi: 10.1080/14680629.2018.1530693.</p>
+            <p class="publication">Souder, N., DeSantis, J.W., Vandenbossche, J.M, and Sachs, S., (2020). Modeling the Development of Permanent Deformation in Asphalt Interlayers of Unbonded Concrete Overlays. <span>Transportation Research Record: Journal of the Transportation Research Board</span>, 2674(9), pp. 489-499. doi: 10.1177/0361198120930013.</p>
+        </li>
+        <li>
+            <p class="publication">Khazanovich, L., & Levenberg, E. (2020). Analytical solution for a viscoelastic plate on a Pasternak foundation. <span class="font-italic">Road Materials and Pavement Design</span>, 21(3), 800-820.Informa UK Limited. doi: 10.1080/14680629.2018.1530693.</p>
         </li>
 
         <li>
@@ -298,7 +313,7 @@
         </li>
 
         <li>
-            <p class="publication">Mu, F., Vandenbossche, J.M., Gatti, K.A., & Sherwood, J.A. (2012). An evaluation of JPCP faulting and transverse cracking models of the mechanistic-empirical pavement design guide. <span class="font-italic">ROAD MATERIALS AND PAVEMENT DESIGN</span>, 13(1), 128-141.Informa UK Limited. doi: 10.1080/14680629.2011.644179.</p>
+            <p class="publication">Mu, F., Vandenbossche, J.M., Gatti, K.A., & Sherwood, J.A. (2012). An evaluation of JPCP faulting and transverse cracking models of the mechanistic-empirical pavement design guide. <span class="font-italic">Road Materials and Pavement Design</span>, 13(1), 128-141.Informa UK Limited. doi: 10.1080/14680629.2011.644179.</p>
         </li>
 
         <li>
@@ -306,7 +321,7 @@
         </li>
 
         <li>
-            <p class="publication">Vandenbossche, J.M., Nassiri, S., Ramirez, L.C., & Sherwood, J.A. (2012). Evaluating the continuously reinforced concrete pavement performance models of the mechanistic-empirical pavement design guide. <span class="font-italic">ROAD MATERIALS AND PAVEMENT DESIGN</span>, 13(2), 235-248.Informa UK Limited. doi: 10.1080/14680629.2012.688172.</p>
+            <p class="publication">Vandenbossche, J.M., Nassiri, S., Ramirez, L.C., & Sherwood, J.A. (2012). Evaluating the continuously reinforced concrete pavement performance models of the mechanistic-empirical pavement design guide. <span class="font-italic">Road Materials and Pavement Design</span>, 13(2), 235-248.Informa UK Limited. doi: 10.1080/14680629.2012.688172.</p>
         </li>
 
 
