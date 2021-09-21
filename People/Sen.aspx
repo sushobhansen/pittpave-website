@@ -14,7 +14,7 @@
                 <h5 class="card-title">Dr. Sushobhan Sen</h5>
                 <p class="card-text">Title: Postdoctoral Associate</p>
                 <p class="card-text"> Email: sus128@pitt.edu</p>
-
+                <p class="card-text"> Personal website: <a href="https://sushobhansen.github.io/" target="_blank" runat="server">sushobhansen@github.io</a></p>
 
             </div>
 

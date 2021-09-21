@@ -14,7 +14,7 @@
                     <h5 class="card-title">Naser P. Sharifi</h5>
                     <p class="card-text">Title: Postdoctoral Associate</p>
                     <p class="card-text">Email: npsharifi@pitt.edu</p>
-
+                    <p class="card-text"> Personal website: <a href="http://www.npsharifi.com/" target="_blank" runat="server">npsharifi.com</a></p>
 
 
                 </div>

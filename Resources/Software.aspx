@@ -171,7 +171,7 @@
         <div class="row no-gutters">
             <div class="col-md-4">
 
-                <img src="~/Images/Resources/Software/Csharp.png" class="card-img" alt="..." style="width: 24rem; height: 24rem;" runat="server" />
+                <img src="~/Images/Resources/Software/Csharp.png" class="card-img" alt="..." style="width: 8rem; height: 8rem;" runat="server" />
             </div>
             <div class="col-md-7">
 
@@ -200,7 +200,7 @@
         <div class="row no-gutters">
             <div class="col-md-4">
 
-                <img src="~/Images/Resources/Software/Fortran.png" class="card-img" alt="..." style="width: 24rem; height: 24rem;" runat="server" />
+                <img src="~/Images/Resources/Software/Fortran.png" class="card-img" alt="..." style="width: 8rem; height: 8rem;" runat="server" />
             </div>
             <div class="col-md-7">
 
@@ -341,7 +341,7 @@
 
     <h2>University of Pittsburgh Resources</h2>
     <br />
-    <h3>Computing Resources Center:<a href="https://crc.pitt.edu/ "> https://crc.pitt.edu/ </a></h3>
+    <h3>Computing Resources Center:<a href="https://crc.pitt.edu/ " target="_blank" runat="server"> https://crc.pitt.edu/ </a></h3>
 
-    <h3>Pittsburgh Supercomputing Center: <a href="https://psc.edu/">https://psc.edu/</a></h3>
+    <h3>Pittsburgh Supercomputing Center: <a href="https://psc.edu/" target="_blank" runat="server">https://psc.edu/</a></h3>
 </asp:Content>
