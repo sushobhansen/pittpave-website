@@ -11,6 +11,7 @@
     </asp:ContentPlaceHolder>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" runat="server" />
     <link rel="stylesheet" href="~/css/site.css" runat="server" />
+    <link rel="icon" type="image/png" sizes="16x16" href="~/Images/favicon-16x16.png" runat="server"/>
 </head>
 <body>
     <a href="~/Default.aspx" runat="server">
