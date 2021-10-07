@@ -15,6 +15,7 @@
                             <li data-target="#carouselImages" data-slide-to="1"></li>
                             <li data-target="#carouselImages" data-slide-to="2"></li>
                             <li data-target="#carouselImages" data-slide-to="3"></li>
+                            <li data-target="#carouselImages" data-slide-to="4"></li>
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
@@ -56,6 +57,18 @@
                                 <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0,0,200,0.3)">
                                     <h5>Planning for the future</h5>
                                     <p>IRISE director Dr. Vandenbossche and other members of the team participate in the Spring 2021 meeting of the consortium</p>
+
+                                </div>
+                            </div>
+
+                            <div class="carousel-item">
+                                <img src="Images/Homepage/AW27.jpg" class="d-block w-100" alt="IRISE group photo" style="height: 24rem" />
+
+
+
+                                <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0,0,200,0.3)">
+                                    <h5>Award-winning research</h5>
+                                    <p>Postdoc Dr. Lucio Salles and faculty Dr. Lev Khazanovich won the Best Paper Award at the prestigious 12th International Conference on Concrete Pavements</p>
 
                                 </div>
                             </div>
@@ -104,6 +117,17 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
+                            <p>Pitt Pavements is proud to welcome three new graduate students to the team: Kathryn Kennebeck, Rahaf Hasan, and Ping Lyu </p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="card-columns">
+                    <div class="card border-primary" style="width: 25rem; height: auto;">
+                        <div class="card-body">
+
                             <p>Pitt’s online BCOA-ME tool now includes a faulting prediction model! Check it out here: <a href="https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME-Design-Guide/">https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME-Design-Guide/</a> </p>
                         </div>
 
@@ -143,18 +167,6 @@
                         <div class="card-body">
 
                             <p>Dr. Lev Khazanovich and postdoc Dr. Sushobhan Sen published a recent paper in Nature Communications on applying strategic reflective surfaces to mitigate urban heat pollution. Check it out here: <a href="https://www.nature.com/articles/s41467-021-23634-7">https://www.nature.com/articles/s41467-021-23634-7</a>  </p>
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-                <div class="card-columns">
-                    <div class="card border-primary" style="width: 25rem; height: auto;">
-                        <div class="card-body">
-
-                            <p>Pitt postdocs Dr. Lucio Salles and Dr. Sushobhan Sen were appointed as Co-Directors of Communication at the International Society for Concrete Pavements (ISCP). Congratulations, guys! </p>
                         </div>
 
                     </div>
