@@ -322,6 +322,24 @@
 
                 </div>
 
+                <div class="card-deck">
+
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <a href="KathrynK.aspx"><img src="~/Images/People/Graduate/Kathryn Kennebeck.jpg" class="card-img" alt="Kathryn Kennebeck" runat="server" style="height: 100px; width:100px;"/></a>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Kathryn Kennebeck</h5>
+                                    <p class="card-text">Graduate Student Researcher </p>
+                                    <p class="card-text">kak320@pitt.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <h2 id="sec-undergrad">Undergraduate Students</h2>
                 <div class="card-deck">
                     <div class="card mb-3" style="height: 12rem; width: 20rem;">

@@ -66,9 +66,9 @@
                         <a class="nav-link text-white" href="~/Partners/Partners.aspx" runat="server">Partners</a>
                     </li>
 
-                    <li class="nav-item">
+                    <li class="nav-item news">
 
-                        <a class="btn btn-success" href="#" role="button">Contact Us</a>
+                        <a class="nav-link text-white" href="~/News/News.aspx" runat="server">News</a>
                     </li>
 
                 </ul>

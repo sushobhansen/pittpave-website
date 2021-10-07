@@ -25,7 +25,7 @@
 
     <br />
 
-    <div class="card" style="width: 18rem;">
+    <div class="card mx-3" style="width: 18rem;">
         <div class="card-header">
             Table of Contents
         </div>
