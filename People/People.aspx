@@ -378,7 +378,7 @@
                     <div class="card mb-3" style="height: 12rem; width: 20rem;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <a href="ZachBrody.aspx"><img src="~/Images/side-pittpavements-logo.png" class="card-img" alt="..." runat="server" style="height: 100px; width:100px;"/></a>
+                                    <a href="ZachBrody.aspx"><img src="~/Images/People/Undergraduate/Zachary Brody.jpg" class="card-img" alt="Zachary Brody" runat="server" style="height: 100px; width:100px;"/></a>
                                 </div>
                                 <div class="col-md-8">
 
