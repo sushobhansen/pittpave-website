@@ -338,6 +338,39 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <a href="RahafH.aspx"><img src="~/Images/People/Graduate/Rahaf Nimer.jpg" class="card-img" alt="Kathryn Kennebeck" runat="server" style="height: 100px; width:100px;"/></a>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Rahaf Hasan</h5>
+                                    <p class="card-text">Graduate Student Researcher </p>
+                                    <p class="card-text">rah193@pitt.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-deck">
+
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <a href="PingLyu.aspx"><img src="~/Images/People/Graduate/Ping Lyu.jpg" class="card-img" alt="Ping Lyu" runat="server" style="height: 100px; width:100px;"/></a>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Ping Lyu</h5>
+                                    <p class="card-text">Graduate Student Researcher </p>
+                                    <p class="card-text">ping.lyu@pitt.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <h2 id="sec-undergrad">Undergraduate Students</h2>
@@ -353,6 +386,24 @@
                                         <h5 class="card-title">Zachary Brody</h5>
                                         <p class="card-text">Undergraduate Student Researcher </p>
                                         <p class="card-text">zab45@pitt.edu</p>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <a href="KiraKlein.aspx"><img src="~/Images/People/Undergraduate/Kira Klein.jpg" class="card-img" alt="Kira Klein" runat="server" style="height: 100px; width:100px;"/></a>
+                                </div>
+                                <div class="col-md-8">
+
+                                    <div class="card-body">
+                                        <h5 class="card-title">Kira Klein</h5>
+                                        <p class="card-text">Undergraduate Student Researcher</p>
+                                        <p class="card-text">kmk224@pitt.edu</p>
                                     </div>
 
 
