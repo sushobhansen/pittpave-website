@@ -87,7 +87,7 @@
                     </p>
 
                     <p class="card-text">
-                        <a href="http://www.dot.state.mn.us/research/reports/2020/202008.pdf">Link</a>
+                        <a href="https://uboldesign3.azurewebsites.net/">Link</a>
                     </p>
 
 
