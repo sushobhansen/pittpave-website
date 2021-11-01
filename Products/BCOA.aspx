@@ -35,7 +35,7 @@
     <p class="font-weight-bold">Instruction manual/User’s Guide:</p>
 
     <p>
-        <a href="https://www.engineering.pitt.edu/uploadedFiles/_Content/Sub_Sites/Faculty_Subsites/Vandenbossche/Documents/BCOA%20ME%20User_s%20Guide.pdf">https://www.engineering.pitt.edu/uploadedFiles/_Content/Sub_Sites/Faculty_Subsites/Vandenbossche/Documents/BCOA%20ME%20User_s%20Guide.pdf</a>
+        <a href="https://www.engineeringx.pitt.edu/uploadedFiles/_Content/Sub_Sites/Faculty_Subsites/Vandenbossche/Image_Library/BCOA%20ME%20User_s%20Guide%20July%202021%20Draft%20Final.pdf">https://www.engineeringx.pitt.edu/uploadedFiles/_Content/Sub_Sites/Faculty_Subsites/Vandenbossche/Image_Library/BCOA%20ME%20User_s%20Guide%20July%202021%20Draft%20Final.pdf</a>
     </p>
     <p class="font-weight-bold">Tools to develop the software:</p>
 
