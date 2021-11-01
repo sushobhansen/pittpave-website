@@ -19,7 +19,7 @@
         The bonded concrete overlay of asphalt mechanistic-empirical design procedure (BCOA-ME) was developed at the University of Pittsburgh under the FHWA Pooled Fund Study TPF 5-165.
     </p>
 
-    <p><span class="font-weight-bold">Website Link:</span><a href="https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME/">https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME/</a> </p>
+    <p><span class="font-weight-bold">Website Link:</span><a href="https://www.engineeringx.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME/">https://www.engineeringx.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME/</a> </p>
 
     <p><span class="font-weight-bold">Software version: </span>Last site update: Aug. 2021</p>
 

@@ -56,7 +56,7 @@
                     </p>
 
                     <p class="card-text">
-                        <a href="https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME/ ">Link</a>
+                        <a href="https://www.engineeringx.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME/">Link</a>
                     </p>
 
 
