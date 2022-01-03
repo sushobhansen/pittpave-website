@@ -40,11 +40,11 @@
                                 </div>
                             </div>
                             <div class="carousel-item">
-                                <img src="Images/Homepage/3.jpg" class="d-block w-100" alt="..." style="height: 24rem" />
+                                <img src="Images/Homepage/Alex-2021-visit.jpg" class="d-block w-100" alt="..." style="height: 24rem" />
 
                                 <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0,0,200,0.3)">
-                                    <h5>Pushing it to the extreme</h5>
-                                    <p>Grad student Nate Buettner studies the development of non-linear fatigue damage in concrete</p>
+                                    <h5>Stopping by</h5>
+                                    <p>Dr. Alex Brand, Asst Professor of Civil Engineering at VT, visited Pitt and saw the work being done by Pitt Pavemenents</p>
 
                                 </div>
                             </div>
