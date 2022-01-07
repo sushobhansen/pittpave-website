@@ -166,7 +166,7 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>Dr. Lev Khazanovich and postdoc Dr. Sushobhan Sen published a recent paper in Nature Communications on applying strategic reflective surfaces to mitigate urban heat pollution. Check it out here: <a href="https://www.nature.com/articles/s41467-021-23634-7">https://www.nature.com/articles/s41467-021-23634-7</a>  </p>
+                            <p>Congratulations to Dr. Lev Khazanovich and postdoc Dr. Sushobhan Sen for their <a href="https://www.tandfonline.com/doi/abs/10.1080/10298436.2021.2020270">recent paper</a> on concrete strength in the International Journal of Pavement Engineering  </p>
                         </div>
 
                     </div>
