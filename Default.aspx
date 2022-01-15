@@ -19,11 +19,11 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="Images/Homepage/1.jpg" class="d-block w-100" alt="..." style="height: 24rem" />
+                                <img src="Images/Homepage/trb2022-group.jpg" class="d-block w-100" alt="trb2022-group" style="height: 24rem" />
 
                                 <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0,0,200,0.3)">
-                                    <h5>Looking into the void</h5>
-                                    <p>Postdoc Lucio Salles and grad student Haoran Li examine defects within a concrete speciment using a non-destructive MIRA scanner</p>
+                                    <h5>Sharing with the world</h5>
+                                    <p>Pitt Pavements researchers participated in the 101st Annual Meeting of the Transportation Research Board in Washington, DC</p>
 
                                 </div>
                             </div>
@@ -140,7 +140,7 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>Congratulations to grad student Nathaniel Buettner on successfully defending his masters thesis on non-linear fatigue accumulation in concrete pavements! </p>
+                            <p>Congratulations to grad student Charles Donnelly for winning the Three-Minute Thesis Competition at the 101st Annual Meeting of the Transportation Research Board! </p>
                         </div>
 
                     </div>
@@ -166,7 +166,7 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>Congratulations to Dr. Lev Khazanovich and postdoc Dr. Sushobhan Sen for their <a href="https://www.tandfonline.com/doi/abs/10.1080/10298436.2021.2020270">recent paper</a> on concrete strength in the International Journal of Pavement Engineering  </p>
+                            <p>Congratulations to Dr. Lev Khazanovich and postdoc Dr. Sushobhan Sen for their <a href="https://www.tandfonline.com/doi/abs/10.1080/10298436.2021.2020270" target="_blank">recent paper</a> on concrete strength in the International Journal of Pavement Engineering  </p>
                         </div>
 
                     </div>
