@@ -224,7 +224,7 @@
                     <div class="card mb-3" style="height: 12rem; width: 20rem;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <a href="Charles.aspx"><img src="~/Images/People/Graduate/Charles Donnelly.jpeg" class="card-img" alt="..." runat="server"/></a>
+                                <a href="Charles.aspx"><img src="~/Images/People/Graduate/Charles Donnelly.jpg" class="card-img" alt="..." runat="server"/></a>
                             </div>
                             <div class="col-md-8">
 

@@ -6,7 +6,7 @@
     <div class="card mb-3" style="width: 70rem; height: 12rem;">
         <div class="row no-gutters">
             <div class="col-sm-2">
-                <img src="~/Images/People/Graduate/Charles Donnelly.jpeg" class="card-img" alt="..." style="height: 12rem; width: auto" runat="server" />
+                <img src="~/Images/People/Graduate/Charles Donnelly.jpg" class="card-img" alt="..." style="height: 12rem; width: auto" runat="server" />
             </div>
             <div class="col-md-8">
 
