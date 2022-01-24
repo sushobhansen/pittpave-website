@@ -6,7 +6,12 @@
     <h2 class="publication">2021</h2>
     <ul>
         <li>
-            <p class="publication">Buettner, N., Q. Zhang, J. M. Vandenbossche, and J. Oswalt. Investigating the Effects of Superloads on Fatigue Performance in Jointed Plain Concrete Pavements. 12th International Conference on Concrete Pavements, 2021. (In press)</p>
+            <p class="publication">Sen, S., & Khazanovich, L. (2021). Reconsidering the strength of concrete pavements. International Journal of Pavement Engineering, Available online, doi: 10.1080/10298436.2021.2020270</p>
+        </li>
+        <li>
+            <p class="publication">
+                Donnelly, C., DeSantis, J., Vandenbossche, J. M., & Sachs, S. G. (2021). Mechanistic-empirical faulting prediction model for unbonded concrete overlays of concrete. Transportation Research Record, 2675(12), 280-292, doi: 10.1177/03611981211028861.
+            </p>
         </li>
         <li>
             <p class="publication">DeSantis, J.W. and Vandenbossche, J.M., (2021). Redevelopment of Artificial Neural Networks for Predicting the Response of Bonded Concrete Overlays of Asphalt for Use in a Faulting Prediction Model. <span>Transportation Research Record: Journal of the Transportation Research Board</span>, 2672(40), pp. 360-370. doi: 10.1177/03611981211001075.</p>

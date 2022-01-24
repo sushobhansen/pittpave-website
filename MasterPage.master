@@ -79,7 +79,7 @@
         </nav>
 
     </header>
-    <div>
+    <div class="mx-2">
         <asp:ContentPlaceHolder ID="maincontent" runat="server">
         </asp:ContentPlaceHolder>
     </div>
