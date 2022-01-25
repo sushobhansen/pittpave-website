@@ -6,6 +6,9 @@
     <h2 class="publication">2021</h2>
     <ul>
         <li>
+            <p class="publication">Li, H., & Khazanovich, L. (2021). PITTRIGID ME: Simplified Mechanistic-Empirical Design Tool for Pennsylvania Rigid Pavements Design and Analysis. Journal of Transportation Engineering, Part B: Pavements, 147(4), p. 04021052, doi: 10.1061/JPEODX.0000307</p>
+        </li>
+        <li>
             <p class="publication">Sen, S., & Khazanovich, L. (2021). Reconsidering the strength of concrete pavements. International Journal of Pavement Engineering, Available online, doi: 10.1080/10298436.2021.2020270</p>
         </li>
         <li>
