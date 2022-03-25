@@ -29,13 +29,13 @@
                             </div>
 
                             <div class="carousel-item">
-                                <img src="Images/Homepage/2.jpg" class="d-block w-100" alt="..." style="height: 24rem" />
+                                <img src="Images/Homepage/Bjorn_Mar22.jpg" class="d-block w-100" alt="Bjorn visit" style="height: 24rem" />
 
 
 
                                 <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0,0,200,0.3)">
-                                    <h5>Making ends meet</h5>
-                                    <p>Postdoc Nasser Sharifi and grad student Charles Donnelley study the comptabitility of different concrete mixes</p>
+                                    <h5>Talking research</h5>
+                                    <p>Prof. Bjorn Birgisson from UGA visited Pitt and interacted with Pitt Pavement members</p>
 
                                 </div>
                             </div>
@@ -50,13 +50,13 @@
                             </div>
 
                             <div class="carousel-item">
-                                <img src="Images/Homepage/4.png" class="d-block w-100" alt="IRISE group photo" style="height: 24rem" />
+                                <img src="Images/Homepage/dsps2022.jpg" class="d-block w-100" alt="DSPS 2022" style="height: 24rem" />
 
 
 
                                 <div class="carousel-caption d-none d-md-block" style="background-color: rgba(0,0,200,0.3)">
-                                    <h5>Planning for the future</h5>
-                                    <p>IRISE director Dr. Vandenbossche and other members of the team participate in the Spring 2021 meeting of the consortium</p>
+                                    <h5>Drive for data</h5>
+                                    <p>Grad students Charles Donnelly and Haoran Li participated in the inaugural Data Science for Pavements Symposium in McLean, VA</p>
 
                                 </div>
                             </div>
@@ -117,11 +117,10 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>Pitt Pavements is proud to welcome three new graduate students to the team: Kathryn Kennebeck, Rahaf Hasan, and Ping Lyu </p>
+                            <p>Congratulations to grad student Charles Donnelly for winning the Three-Minute Thesis Competition at the 101st Annual Meeting of the Transportation Research Board! </p>
                         </div>
 
                     </div>
-
                 </div>
 
                 <div class="card-columns">
@@ -136,18 +135,7 @@
                 </div>
 
 
-                <div class="card-columns">
-                    <div class="card border-primary" style="width: 25rem; height: auto;">
-                        <div class="card-body">
-
-                            <p>Congratulations to grad student Charles Donnelly for winning the Three-Minute Thesis Competition at the 101st Annual Meeting of the Transportation Research Board! </p>
-                        </div>
-
-                    </div>
-
-
-
-                </div>
+                
 
 
                 <div class="card-columns">
