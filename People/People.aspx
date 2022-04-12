@@ -377,7 +377,7 @@
 
                                     <div class="card-body">
                                         <h5 class="card-title">Zachary Brody</h5>
-                                        <p class="card-text">Undergraduate Student Researcher </p>
+                                        <p class="card-text">Graduate Student Researcher </p>
                                         <p class="card-text">zab45@pitt.edu</p>
                                     </div>
 
@@ -425,6 +425,48 @@
                                         <h5 class="card-title">Megan Darnell</h5>
                                         <p class="card-text">Undergraduate Student Researcher</p>
                                         <p class="card-text">MMD107@pitt.edu</p>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card-deck">
+                        
+
+                        <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <a href="MRS196.aspx">
+                                        <img src="~/Images/People/Undergraduate/mason-smetana.jpg" class="card-img" alt="MRS196" runat="server" style="height: 100px; width: 100px;" /></a>
+                                </div>
+                                <div class="col-md-8">
+
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mason Smetana</h5>
+                                        <p class="card-text">Undergraduate Student Researcher</p>
+                                        <p class="card-text">MRS196@pitt.edu</p>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card mb-3" style="height: 12rem; width: 20rem;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <a href="ALW225.aspx">
+                                        <img src="~/Images/People/Undergraduate/ari-wynn.jpg" class="card-img" alt="ALW225" runat="server" style="height: 100px; width: 100px;" /></a>
+                                </div>
+                                <div class="col-md-8">
+
+                                    <div class="card-body">
+                                        <h5 class="card-title">Ari Wynn</h5>
+                                        <p class="card-text">Undergraduate Student Researcher</p>
+                                        <p class="card-text">ALW225@pitt.edu</p>
                                     </div>
 
 
