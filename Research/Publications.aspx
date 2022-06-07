@@ -3,8 +3,62 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="maincontent" runat="Server">
+    <h2>2022</h2>
+    <ul>
+        <li>
+            <p>DeSantis, J. W., Sen, S., & Vandenbossche, J. M. (2022). Mechanistic-empirical model to predict transverse joint faulting of bonded concrete overlays of asphalt. Road Materials and Pavement Design, 1-23.</p>
+        </li>
+        <li>
+            <p>García Mainieri, J. J., Sen, S., Roesler, J., & Al-Qadi, I. L. (2022). Albedo Change Mechanism of Asphalt Concrete Surfaces. Transportation Research Record, 03611981221082567.</p>
+        </li>
+        <li>
+            <p>Zhe Wan, Lucio Salles de Salles & Lev Khazanovich (2022) Poroelastic modeling of pore pressure development in granular pavement layers, International Journal of Pavement Engineering, DOI: 10.1080/10298436.2022.2052874</p>
+        </li>
+        <li>
+            <p>Salles de Salles, L., Kosar, K., Vandenbossche, J., & Khazanovich, L. (2022). Determination of Concrete Strength for Concrete Pavement Opening Decision-Making. International Journal of Pavement Research and Technology, doi: 10.1007/s42947-022-00176-9</p>
+        </li>
+        <li>
+            <p>Khazanovich L, Vandenbossche J, Salles de Salles L, Burnham T. (2022). Mechanistic–Empirical Model for Cracking Prediction in Unbonded Concrete Overlays on Concrete Pavements. Transportation Research Record. February doi:10.1177/03611981221079831</p>
+        </li>
+    </ul>
+
     <h2 class="publication">2021</h2>
     <ul>
+        <li>
+            <p>Donnelly, C, Vandenbossche, JM. (2021) Establishing effects of superloads on doweled joint plain concrete pavements. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p>Buettner, N, Zhang, Q, Vandenbossche, JM, Oswalt, J. (2021) Investigating the effects of superloads on fatigue performance of jointed plain concrete pavements. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p>Vandenbossche, JM, DeSantis, JW. (2021) Effects of interlayer properties on the performance of unbonded concrete overlays. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p>Bly, P, Khazanovich, L. (2021) Reducing airfield rigid pavement modeling complexity: an exercise using the principles of similarity. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p>Stromberg, L, Khazanovich, L, and Hintze, S. (2021) Enhancement of sustainable road design towards compatibility between pavement materials. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p>Sen, S, Roesler, J, Ruddell, B, Middel, A. (2021) Cool pavements for sustainable urban development. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p>de Salles LS, Khazanovich L. (2021). Local Calibration of Pavement Mechanistic-Empirical Faulting Reliability using Pavement Management Data. Transportation Research Record. ;2675(9):251-264. doi:10.1177/03611981211001392</p>
+        </li>
+        <li>
+            <p>de Salles, L.S., Conway, R., Khazanovich, L., Barnes, R., Hoegh, K., Pereira, D. S. (2021). Non-destructive ultrasonic evaluation of construction variability effect on concrete pavement performance. Int. J. Pavement Res. Technol. 14, 385–396. https://doi.org/10.1007/s42947-020-1198-2</p>
+        </li>
+        <li>
+            <p>Salles, L.S., Khazanovich, L. Balbo, J.T. (2021). Re-evaluation of continuously reinforced concrete pavement structural model. 12th International Conference on Concrete Pavements. Virtual Event.</p>
+        </li>
+        <li>
+            <p class="publication">Kosar, K., Salles, L., & Khazanovich, L. Early Opening of Concrete Pavement to Traffic. Pitt IRISE, December 2021. Report No. FHWA-PA-2021-014-IRISE WO 02</p>
+            "
+        </li>
+        <li>
+            <p class="publication">Khazanovich L., Kosar, K., & Li, H. Evaluation of Long-Term Impacts of Early Opening of Concrete Pavements. National Road Research Alliance, August 2021. Report No. NRRA 202111</p>
+            "
+        </li>
         <li>
             <p class="publication">Li, H., & Khazanovich, L. (2021). PITTRIGID ME: Simplified Mechanistic-Empirical Design Tool for Pennsylvania Rigid Pavements Design and Analysis. Journal of Transportation Engineering, Part B: Pavements, 147(4), p. 04021052, doi: 10.1061/JPEODX.0000307</p>
         </li>

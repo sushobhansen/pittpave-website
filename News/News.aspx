@@ -5,6 +5,21 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="maincontent" runat="Server">
     <div id="accordion">
         <div class="card border-primary mx-3 my-3">
+            <div class="card-header" id="hao">
+                <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#haoranAward" aria-expanded="true" aria-controls="collapseOne">
+                        Haoran Li wins award and summer internship program
+                    </button>
+                </h5>
+            </div>
+            <div id="haoranAward" class="collapse show" aria-labelledby="haoranAward" data-parent="#accordion">
+                <div class="card-body">
+                    <b>June 1, 2022: </b>Graduate student Haoran Li, working under the supervision of Prof. Lev Khazanovich, is the recipient of a prestigious scholarship and internship opportunity at Pitt. Haoran has won the 2022 Mark and Roni Magalotti Scholarship at the University of Pittsburgh, which also gave him the opportunity to present his work at MASITE-ITSPA on <i>Artificial Neural Networks Based Assessment Tool and Design Alternative for AASHTO M-E Concrete Pavements Design</i>. He is also joining the University Center for Teaching and Learning at Pitt this summer for an internship. This internship program provides participants a great opportunity to leverage and learn new professional skills, develop a deeper understanding of higher education administration and policy, and gain exposure to a potential career field. The program also includes weekly professional development programming to support Ph.D. students’ career exploration and preparation. Congratulations, Haoran! 
+                </div>
+            </div>
+        </div>
+
+        <div class="card border-primary mx-3 my-3">
             <div class="card-header" id="headingAM3P">
                 <h5 class="mb-0">
                     <button class="btn btn-link" data-toggle="collapse" data-target="#collapseAM3P" aria-expanded="true" aria-controls="collapseOne">
@@ -12,7 +27,7 @@
                     </button>
                 </h5>
             </div>
-            <div id="collapseAM3P" class="collapse show" aria-labelledby="headingAM3P" data-parent="#accordion">
+            <div id="collapseAM3P" class="collapse" aria-labelledby="headingAM3P" data-parent="#accordion">
                 <div class="card-body">
                     <b>April 12, 2022: </b>The AM3P 2022 Conference invites papers for the conference to be held in Hong Kong from Dec 12-14, 2022. The topics of the conference include:
                     <ul>

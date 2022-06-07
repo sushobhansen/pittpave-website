@@ -117,32 +117,30 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
+                            <p>Congratulations to grad student Haoran Li for winning the 2022 Mark and Roni Magalotti Scholarship as well as an internship position at the University Center for Teaching and Learning at Pitt!</p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="card-columns">
+                    <div class="card border-primary" style="width: 25rem; height: auto;">
+                        <div class="card-body">
+
                             <p>Congratulations to grad student Charles Donnelly for winning the Three-Minute Thesis Competition at the 101st Annual Meeting of the Transportation Research Board! </p>
                         </div>
 
                     </div>
                 </div>
 
-                <div class="card-columns">
-                    <div class="card border-primary" style="width: 25rem; height: auto;">
-                        <div class="card-body">
-
-                            <p>Pitt’s online BCOA-ME tool now includes a faulting prediction model! Check it out here: <a href="https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME-Design-Guide/">https://www.engineering.pitt.edu/Sub-Sites/Faculty-Subsites/J_Vandenbossche/BCOA-ME/BCOA-ME-Design-Guide/</a> </p>
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-                
 
 
                 <div class="card-columns">
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>The Pitt pavements team visited the under-construction SR-576, a new freeway segment being constructed by the Pennsylvania Turnpike Commission to connect Pittsburgh International Airport to the city.</p>
+                            <p>Congratulations to postdoc Dr. Lucio Salles for his new position as an assistant professor at Rochester Institute of Technology starting in August, 2022!</p>
                         </div>
 
                     </div>
@@ -154,7 +152,7 @@
                     <div class="card border-primary" style="width: 25rem; height: auto;">
                         <div class="card-body">
 
-                            <p>Congratulations to Dr. Lev Khazanovich and postdoc Dr. Sushobhan Sen for their <a href="https://www.tandfonline.com/doi/abs/10.1080/10298436.2021.2020270" target="_blank">recent paper</a> on concrete strength in the International Journal of Pavement Engineering  </p>
+                            <p>Congratulations to postdoc Dr. Sushobhan Sen for his new position as an assistant professor at Indian Institute of Technology Gandhinagar starting in December, 2022! </p>
                         </div>
 
                     </div>
